@@ -117,12 +117,10 @@ nav{
  
  
 ul{	
-	margin: 0% 2% 4% 2% !important;
+	margin: 3.5% 3% 4% 2% !important;
 	}
 
-ul.main-nav{
-	margin-top: 3.5% !important;
-	}
+
    
 ul li{
 	display: inline-block;
