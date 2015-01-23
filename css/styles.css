@@ -72,7 +72,7 @@ img{
 
 
 .image3{
-	background: url('img/frames2.jpg');
+	background: url('{{site.url}}img/frames2.jpg');
 	background-position: center;
 		-webkit-background-position: center;
 	  -moz-background-position: center;
