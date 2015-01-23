@@ -57,7 +57,7 @@ html, body, .wrapper, .section{
     padding: 0;	
 	}
 
-* html{
+html *{
    font-family: "franklin-gothic-urw";
 }	
 
