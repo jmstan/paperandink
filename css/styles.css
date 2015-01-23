@@ -71,7 +71,7 @@ img{
 
 
 .image3{
-	background: url('{{site.url}}/img/frames2.jpg');
+	background: url('{{url}}/img/frames2.jpg');
 	background-position: center;
 		-webkit-background-position: center;
 	  -moz-background-position: center;
@@ -89,7 +89,7 @@ img{
 
 
 .image2_block{
-    background: url('img/portfolio_img.jpg') no-repeat center center;
+    background: url('{{site.url}}img/portfolio_img.jpg') no-repeat center center;
 	background-position: center;
 		-webkit-background-position: center;
 	  -moz-background-position: center;
@@ -150,7 +150,6 @@ h2{
 	color:black;
 	text-align: center;
 	letter-spacing: 1px;
-	/*text-shadow: 2px 4px 3px rgba(0,0,0,0.2);*/
 	}
 	
 h3{
