@@ -1,5 +1,4 @@
----
----
+
 
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
@@ -89,7 +88,7 @@ img{
 
 
 .image2_block{
-    background: url('{{siteurl}}img/portfolio_img.jpg') no-repeat center center;
+    background: url('./img/portfolio_img.jpg') no-repeat center center;
 	background-position: center;
 		-webkit-background-position: center;
 	  -moz-background-position: center;
