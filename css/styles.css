@@ -459,7 +459,7 @@ input[type=submit]{
 	}
 
 	input[type=submit]{
-		margin: 90%;
+		width: 90%;
 	}	
 }
 
