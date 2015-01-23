@@ -365,6 +365,7 @@ input[type=submit]{
 
 
 @media screen and (max-width:767px) {
+
     header, nav{
 	    text-align: center;    
 		}
@@ -399,7 +400,6 @@ input[type=submit]{
 		}
 
 	
-
 	.aboutme-blurb{
 		width: 95% !important;
 		margin: 0 2.5% 6% 2.5% !important;
@@ -450,7 +450,11 @@ input[type=submit]{
    
    .image3, .service-title{
 	   margin-top: 5%;
-	   }	
+	   }
+
+	.group{
+		width:95%;
+	}	
 }
 
 
