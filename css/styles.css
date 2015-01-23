@@ -456,6 +456,10 @@ input[type=submit]{
 
 	span.group{
 		width:95%;
+	}
+
+	input[type=submit]{
+		margin: 90%;
 	}	
 }
 
