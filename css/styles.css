@@ -130,7 +130,12 @@ ul li{
 	letter-spacing: 1px;
 	}
 
-h1 {
+
+ul li:first-child{
+	margin-left: 0px;
+	}
+
+h1{
 	font-size: 42px;
 	font-family: 'Playfair Display', serif;
 	font-weight: 700;
@@ -270,7 +275,6 @@ img.icon{
 	 }
 
 
-
 footer{
 	height:100px;
 	background-color: #2d2d2d;
@@ -315,11 +319,11 @@ label{
 	font-size: 14px;
 	display: inline-block;
 	margin-bottom: 1%;
-}
+	}
 
 textarea{
 	height:150px;
-}
+	}
 
 input[type=submit]{
 	background-color: #D8AC55;
@@ -442,38 +446,38 @@ input[type=submit]{
 
 	span.group{
 		width:95%;
-	}
+		}
 
 	input[type=submit]{
 		width: 90%;
-	}	
+		}	
 }
 
 
 @media screen and (max-width:989px) {
 		
 		img.icon{
-		vertical-align: middle;
-		width:80px;
-		height:80px;
-		}
+			vertical-align: middle;
+			width:80px;
+			height:80px;
+			}
 		
 		.email-icon, .phone-icon, .location-icon{
 			margin-top: 0px;
 			padding:0px;
 			text-align: center;
-		}
+			}
 		
 		.icons-all{
 			margin-top: 4%;
-		}
+			}
 		
 		.aboutme-blurb{
 			padding-right: 0;
-		}
+			}
 
 		.image3{
 			padding-top: 53.64%; 
-		} 
+			} 
 	
 } 
