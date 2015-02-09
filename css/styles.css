@@ -174,7 +174,6 @@ h3{
 	}
 
 .aboutme-blurb{
-	padding-right: 3%;
 	text-align: center;
 	}
  
@@ -203,6 +202,11 @@ a{
 	margin-top: 2%;
 	}
 
+.aboutme-blurb > a {
+	padding-right: 25px;
+	display: inline-block;
+	}
+
 .title-box{
 	margin: 3% 0%;
 	text-transform: uppercase;
@@ -223,6 +227,7 @@ a{
 
 .about{
 	background-color: white;
+	padding-right: 25px;
 	}
 
 .message{
