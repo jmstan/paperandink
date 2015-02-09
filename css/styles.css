@@ -398,7 +398,7 @@ input[type=submit]{
 		margin: 0 2.5% 6% 2.5% !important;
 		}
 	
-	.about, .aboutme-blurb{
+	.about, .aboutme-blurb > a{
 		padding-right: 0px;
 	}
 		
