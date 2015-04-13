@@ -378,11 +378,15 @@ input[type=submit]{
 
 	h2{
 	   position: relative;
-	   font-size: 18px;
+	   font-size: 20px;
 	   color:black;
 	   width: 95% !important;
 	   margin: 6% 2.5% 0% 2.5% !important;
 	   }
+
+	h3{
+		font-size:18px;
+	}
 	
 	ul{
 	   margin-right:0% !important;
